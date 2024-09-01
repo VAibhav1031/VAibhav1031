@@ -27,7 +27,7 @@
 
 🧙‍♂️ **Spells I Know:**
 - C++
-- JAVA
+- C
 - HTML & CSS
 - DSA
 - (Python is brewing in the cauldron 🪄)
