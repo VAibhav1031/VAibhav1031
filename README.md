@@ -14,31 +14,34 @@
 <hr>
 
 <h2>👨‍💻 About Me:</h2>
-
-<ul>
-    <li>I'm a passionate programmer exploring the realms of <strong>C, C++, Rust, HTML, CSS</strong>, and the intriguing world of <strong>Data Structures and Algorithms (DSA)</strong>.</li>
-    <li>Currently on a coding journey, and I've got Python 🐍 in my sights next!</li>
-</ul>
+<p>
+    I'm a passionate programmer exploring the realms of <strong>C, C++, Rust, HTML, CSS</strong>, and the intriguing world of <strong>Data Structures and Algorithms (DSA)</strong>. 
+    Currently on a coding journey, with Python 🐍 in my sights next!
+</p>
+<p>
+    🌟 <strong>Machine Learning enthusiast:</strong> Starting my journey—future projects will reflect this passion!
+</p>
 
 <hr>
 
 <h2>🌐 Connect with Me:</h2>
 <p>
-    📧 Email: <a href="mailto:VAIBHAV2004GRAND@GMAIL.COM">VAIBHAV2004GRAND@GMAIL.COM</a> or <a href="mailto:VAIBHAVGRAND2004@GMAIL.COM">VAIBHAVGRAND2004@GMAIL.COM</a>.
+    📧 Email: <a href="mailto:t53aru74l@mozmail.com">t53aru74l@mozmail.com</a> or <a href="mailto:erootgn1r@mozmail.com">erootgn1r@mozmail.com</a>.
 </p>
 
 <hr>
 
 <h2>💬 Collaboration:</h2>
 <p>
-    I believe in the power of collaboration, and I'm excited about future opportunities to work together. Let's create something amazing!
+    I believe in the power of collaboration, and I'm excited about future opportunities to work together. 
+    Let's create something amazing!
 </p>
 
 <hr>
 
 <h2>🎯 Projects:</h2>
 <p>
-    Explore my repositories for a diverse range of coding projects and ideas.
+    Explore my repositories for a diverse range of coding projects and ideas. 
     From simple programs to complex challenges, I'm on a mission to learn and innovate.
 </p>
 
@@ -46,7 +49,8 @@
 
 <h2>🚀 Keep Coding, Stay Curious:</h2>
 <p>
-    The world of technology is vast, and every line of code is an adventure. Let's code, learn, and grow together!
+    The world of technology is vast, and every line of code is an adventure. 
+    Let's code, learn, and grow together!
 </p>
 
 <hr>
@@ -71,7 +75,7 @@
     <li>C</li>
     <li>HTML & CSS</li>
     <li>DSA (also brewing in the cauldron 🪄)</li>
-    <li>Rust</li>
+    <li>Rust (also in the sight)</li>
     <li>(Python is brewing in the cauldron 🪄)</li>
 </ul>
 
