@@ -26,7 +26,7 @@
 
 <h2>🌐 Connect with Me:</h2>
 <p>
-    📧 Email: <a href="mailto:t53aru74l@mozmail.com">t53aru74l@mozmail.com</a> or <a href="mailto:erootgn1r@mozmail.com">erootgn1r@mozmail.com</a>.
+    📧 Email: <a href="mailto:t53aru74l@mozmail.com">t53aru74l@mozmail.com</a> or <a href="mailto:erootgn1r@mozmail.com">erootgn1r@mozmail.com</a> or <a href="mailto:necromancer44@proton.me"><i><b>necromancer44@proton.me</b></i></a>.
 </p>
 
 <hr>
