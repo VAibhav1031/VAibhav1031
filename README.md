@@ -7,7 +7,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a&logoColor=white" alt="Python" width="120">
     <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=2bbc8a&logoColor=white" alt="C++" width="120">
-    <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=C&color=2bbc8a&logoColor=white" alt="C" width="120">
+    <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=2bbc8a&logoColor=white" alt="C" width="120">
     <img src="https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=2bbc8a&logoColor=white" alt="Rust" width="120">
 </div>
 
