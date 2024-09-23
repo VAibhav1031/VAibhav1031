@@ -16,7 +16,7 @@
 <h2>👨‍💻 About Me:</h2>
 
 <ul>
-    <li>I'm a passionate programmer exploring the realms of <strong>C, C++, JAVA, HTML, CSS</strong>, and the intriguing world of <strong>Data Structures and Algorithms (DSA)</strong>.</li>
+    <li>I'm a passionate programmer exploring the realms of <strong>C, C++, Rust, HTML, CSS</strong>, and the intriguing world of <strong>Data Structures and Algorithms (DSA)</strong>.</li>
     <li>Currently on a coding journey, and I've got Python 🐍 in my sights next!</li>
 </ul>
 
