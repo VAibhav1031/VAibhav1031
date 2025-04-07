@@ -106,13 +106,7 @@ fn main() {
 
 </div>
 
-## 🚀 Projects
 
-<div align="center">
-  
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=VAibhav1031&repo=Best_kitty_setup&theme=gotham&hide_border=true&bg_color=0D1117)](https://github.com/VAibhav1031/Best_kitty_setup)
-
-</div>
 
 ## 📚 Learning Journey
 
