@@ -33,35 +33,41 @@ _Where code meets creativity and curiosity_
 
 ## 👨‍💻 About Me
 
-```rust
-struct VaibhavProfile<'a> {
-    current_focus: &'a str,
-    interests: Vec<&'a str>,
-    skills: Skills<'a>,
-    challenge: &'a str,
-    motto: &'a str,
-}
+```C
+struct Skills {
+    const char* languages[5];
+    const char* learning[2];
+    const char* tools[3];
+};
 
-struct Skills<'a> {
-    languages: Vec<&'a str>,
-    learning: Vec<&'a str>,
-    tools: Vec<&'a str>,
-}
+struct VaibhavProfile {
+    const char* current_focus;
+    const char* interests[4];
+    struct Skills skills;
+    const char* challenge;
+    const char* motto;
+};
 
-fn main() {
-    let vaibhav = VaibhavProfile {
-        current_focus: "Data Structures & Algorithms",
-        interests: vec!["Systems Programming", "Problem Solving", "Machine Learning", "Open Source"],
-        skills: Skills {
-            languages: vec!["C", "C++", "Rust", "HTML", "CSS"],
-            learning: vec!["Python 🐍", "Machine Learning 🤖"],
-            tools: vec!["Git", "VSCode", "Linux"],
+int main() {
+    struct VaibhavProfile vaibhav = {
+        .current_focus = "Data Structures & Algorithms",
+        .interests = {
+            "Systems Programming",
+            "Problem Solving",
+            "Machine Learning",
+            "Open Source"
         },
-        challenge: "Becoming proficient in Python and ML techniques",
-        motto: "Every line of code is an adventure",
+        .skills = {
+            .languages = {"C", "C++", "Rust", "HTML", "CSS"},
+            .learning = {"Python 🐍", "Machine Learning 🤖"},
+            .tools = {"Git", "VSCode", "Linux"}
+        },
+        .challenge = "Becoming proficient in Python and ML techniques",
+        .motto = "Every line of code is an adventure"
     };
-    
+
     // Life mission: Solving complex problems with elegant solutions
+    return 0;
 }
 ```
 
