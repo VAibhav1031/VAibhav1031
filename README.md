@@ -59,8 +59,8 @@ int main() {
         },
         .skills = {
             .languages = {"C", "C++", "Rust", "HTML", "CSS"},
-            .learning = {"Python 🐍", "Machine Learning 🤖"},
-            .tools = {"Git", "VSCode", "Linux"}
+            .learning = {"Python 🐍", "Machine Learning 🤖",},
+            .tools = {"Git", "NeoVim", "Linux", "Bash"}
         },
         .challenge = "Becoming proficient in Python and ML techniques",
         .motto = "Every line of code is an adventure"
