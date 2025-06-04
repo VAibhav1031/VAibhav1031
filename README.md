@@ -25,11 +25,7 @@ _Where code meets creativity and curiosity_
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VAibhav1031&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-</div>
 
 ## 👨‍💻 About Me
 
@@ -73,26 +69,7 @@ int main() {
 
 > 🌟 **Problem solving enthusiast:** I love tackling algorithmic challenges and finding elegant solutions to complex problems!
 
-## 🔮 Spells In My Grimoire
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="Rust" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python (Learning)" /></td>
-  </tr>
-  <tr>
-    <td align="center">C++</td>
-    <td align="center">C</td>
-    <td align="center">Rust</td>
-    <td align="center">HTML</td>
-    <td align="center">CSS</td>
-    <td align="center">Python 🪄</td>
-  </tr>
-</table>
 
 
 ## 📊 GitHub Stats
