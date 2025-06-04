@@ -36,7 +36,7 @@ struct Skills {
     const char* tools[3];
 };
 
-struct VaibhavProfile {
+struct MyProfile {
     const char* current_focus;
     const char* interests[4];
     struct Skills skills;
