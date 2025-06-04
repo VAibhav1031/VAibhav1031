@@ -2,7 +2,7 @@
   
 # ✨ Hello, I'm Vaibhav ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=600&height=70&lines=Problem+Solver;LOve-Linux;Machine+Learning+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=600&height=70&lines=Problem+Solver;Love-Linux;Machine+Learning+Explorer)](https://git.io/typing-svg)
 
 _Where code meets creativity and curiosity_
 
