@@ -113,34 +113,6 @@ int main() {
 </div>
 
 
-
-## 📚 Learning Journey
-
-<div align="center">
-  
-```mermaid
-graph LR
-    A[C] --> B[C++]
-    B --> C[DSA]
-    C --> D[Rust]
-    C --> E[Problem Solving]
-    C --> F[Python]
-    F --> G[Machine Learning]
-    style A fill:#00599C,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#9C033A,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#FF6B6B,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#DEA584,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#5CB85C,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
-    style G fill:#FF9A00,stroke:#fff,stroke-width:2px,color:#fff
-```
-
-</div>
-
-## 💬 Collaboration
-
-I believe in the power of collaboration and community. Let's connect and create something amazing together! Whether it's solving challenging problems, contributing to open source, or building something new, I'm always excited about opportunities to work with fellow developers.
-
 ## 🧠 Problem Solving Approach
 
 <div align="center">
