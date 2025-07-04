@@ -71,14 +71,6 @@ int main() {
 
 
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VAibhav1031&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAibhav1031&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170"/>
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
