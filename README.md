@@ -99,13 +99,6 @@ function solveProblems(problem) {
 
 </div>
 
-## 🌌 Fun Fact
-
-<div align="center">
-  
-> "Coding is like solving puzzles; each bug is a mystery waiting to be solved, and each solution is a small victory! ✨"
-
-</div>
 
 <div align="center">
   
