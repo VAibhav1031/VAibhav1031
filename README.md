@@ -102,8 +102,6 @@ function solveProblems(problem) {
 
 <div align="center">
   
-## 🎉 Thanks for Stopping By!
-
 <img src="https://komarev.com/ghpvc/?username=VAibhav1031&color=2bbc8a&style=for-the-badge" alt="Profile Views"/>
 
 _"Keep coding, stay curious, and never stop solving problems!"_
