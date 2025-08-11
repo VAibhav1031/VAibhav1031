@@ -10,6 +10,9 @@ _Where code meets creativity and curiosity_
 
 </div>
 
+
+-------------> [Vaibhav Tiwari](https://vaibhav1031.github.io/portfolio/)
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -25,51 +28,7 @@ _Where code meets creativity and curiosity_
 
 </div>
 
-
-
-## 👨‍💻 About Me
-
-```C
-struct Skills {
-    const char* languages[5];
-    const char* learning[2];
-    const char* tools[3];
-};
-
-struct MyProfile {
-    const char* current_focus;
-    const char* interests[4];
-    struct Skills skills;
-    const char* challenge;
-    const char* motto;
-};
-
-int main() {
-    struct VaibhavProfile vaibhav = {
-        .current_focus = "Data Structures & Algorithms",
-        .interests = {
-            "Systems Programming",
-            "Problem Solving",
-            "Machine Learning",
-            "Open Source"
-        },
-        .skills = {
-            .languages = {"C", "C++", "Rust", "HTML", "CSS"},
-            .learning = {"Python 🐍", "Machine Learning 🤖",},
-            .tools = {"Git", "NeoVim", "Linux", "Bash"}
-        },
-        .challenge = "Becoming proficient in Python and ML techniques",
-        .motto = "Every line of code is an adventure"
-    };
-
-    // Life mission: Solving complex problems with elegant solutions
-    return 0;
-}
-```
-
 > 🌟 **Problem solving enthusiast:** I love tackling algorithmic challenges and finding elegant solutions to complex problems!
-
-
 
 ## 🌐 Connect With Me
 
