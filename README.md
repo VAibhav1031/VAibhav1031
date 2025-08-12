@@ -11,8 +11,6 @@ _Where code meets creativity and curiosity_
 </div>
 
 
--------------> [Vaibhav Tiwari](https://vaibhav1031.github.io/portfolio/)
-
 ## 💻 Tech Stack
 
 <div align="center">
