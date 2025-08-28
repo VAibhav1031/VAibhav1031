@@ -26,7 +26,6 @@ _Where code meets creativity and curiosity_
 
 </div>
 
-> 🌟 **Problem solving enthusiast:** I love tackling algorithmic challenges and finding elegant solutions to complex problems!
 
 ## 🌐 Connect With Me
 
