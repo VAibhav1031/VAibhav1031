@@ -4,7 +4,7 @@
 * I care more about **how things work** than shiny frameworks
 * Daily driver: **Linux**, terminal-first workflow
 * I like building things end-to-end and then **breaking them to understand internals**
-* Long-term goal: become a **reliable, good backend engineer**
+* Long-term goal: become a **reliable, high-ownership backend engineer**
 
 ## Current Focus (No BS)
 
