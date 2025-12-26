@@ -1,64 +1,45 @@
-<div align="center">
-  
-# ✨ Hello, I'm Vaibhav ✨
+## 👋 Hi, I’m Vaibhav
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2BBC8A&center=true&vCenter=true&random=false&width=600&height=70&lines=Problem+Solver;Love-Linux)](https://git.io/typing-svg)
+* Computer Science student focused on **backend systems, APIs, and low-level understanding**
+* I care more about **how things work** than shiny frameworks
+* Daily driver: **Linux**, terminal-first workflow
+* I like building things end-to-end and then **breaking them to understand internals**
+* Long-term goal: become a **reliable, good backend engineer**
 
-_Where code meets creativity and curiosity_
+## Current Focus (No BS)
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+* Designing **production-style APIs**
+* Databases: how queries, indexes, and connections really work
+* Authentication & security basics (JWT, OAuth2, rate limiting)
+* Monitoring & observability (metrics > vibes)
+* Strengthening **DSA only where it matters for real systems**
 
-</div>
-
-
-## 💻 Tech Stack
-
-<div align="center">
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDNMMSA5TDEyIDIxTDIzIDE1VjlMMTIgM00xMiA1LjI4NUwxMS4wNzIgOC45OTlMNy43OTYgMTIuMTM4TDQuODMgNy42MzdMMTIgNS4yODVNMTQuMDkxIDcuOTk5TDIwIDE0VjEwLjI4MUwxNC4wOTEgNy45OTlaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
-</div>
-
-
-## 🌐 Connect With Me
-
-<div align="center">
+## Systems & Tools
   
-[![Email](https://img.shields.io/badge/Email-necromancer44%40proton.me-blue?style=for-the-badge&logo=protonmail)](mailto:necromancer44@proton.me)
-[![Email](https://img.shields.io/badge/Alternative-t53aru74l%40mozmail.com-2D4159?style=for-the-badge&logo=thunderbird)](mailto:t53aru74l@mozmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/VAibhav1031)
-
-</div>
-
-
-## 🧠 Problem Solving Approach
-
-<div align="center">
-
-```
-function solveProblems(problem) {
-  1. Understand the problem thoroughly
-  2. Break it down into smaller components
-  3. Consider multiple approaches
-  4. Implement the most efficient solution
-  5. Test with various edge cases
-  6. Optimize for readability and performance
-}
-```
-
-</div>
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  
 
 ---
 <div align="center">
   
-<img src="https://komarev.com/ghpvc/?username=VAibhav1031&color=2bbc8a&style=for-the-badge" alt="Profile Views"/>
 
 _"Keep coding, stay curious, and never stop solving problems!"_
 
